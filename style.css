@@ -52,3 +52,12 @@ form {
 .form input:focus, .form textarea:focus {
     outline: none;
 }
+
+form button{
+    padding: 10px;
+    width: 100%;
+    background-color: lightseagreen;
+}
+form button:hover{
+    background: green;
+}
